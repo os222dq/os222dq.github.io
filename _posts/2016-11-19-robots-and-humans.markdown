@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "robots & humans"
 date:   2016-11-19 12:29:34
 categories: schoolrelated

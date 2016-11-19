@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Precompiled CSS"
 date:   2016-11-19 11:09:34
 categories: schoolrelated

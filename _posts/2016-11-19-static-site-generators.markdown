@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Static site generators"
 date:   2016-11-19 11:30:34
 categories: schoolrelated

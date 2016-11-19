@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Open Graph"
 date:   2016-11-19 12:50:34
 categories: schoolrelated

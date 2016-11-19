@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Blog comments with Disqus"
 date:   2016-11-19 12:33:34
 categories: schoolrelated

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to my new webpage!"
 date:   2016-11-18 11:19:34
 categories: other
