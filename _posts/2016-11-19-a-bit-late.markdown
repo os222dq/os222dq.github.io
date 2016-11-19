@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "A bit late"
 date:   2016-11-19 12:55:34
 categories: other
