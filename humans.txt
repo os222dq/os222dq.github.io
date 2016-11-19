@@ -1,0 +1,13 @@
+﻿    /* TEAM */
+    Your title: Oscar, os222dq
+    Site: [email, link to a contact form, etc.]
+    Location: Kalmar, Sweden
+
+    /* THANKS */
+    Name: [name or url]
+
+    /* SITE */
+    Last update: 2016/11/19
+    Standards: HTML5, CSS3,..
+    Components: ?
+    Software: Webstorm, Vagrant, Virtualbox, Jekyll,

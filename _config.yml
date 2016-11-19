@@ -2,7 +2,7 @@
 title: Oscar
 email: os222dq@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
-  The purpose of this page is make sure I (Oscar) reaching the goals in the course Client-based webprogramming.
+  The purpose of this page is to make sure I; Oscar, reaching the goals in the course Client-based webprogramming.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  os222dq
